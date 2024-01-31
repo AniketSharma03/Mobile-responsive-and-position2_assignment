@@ -1,0 +1,14 @@
+1.What is position property in CSS and its types?
+
+Sol:The position property in CSS is used to specify the positioning method of an element within its containing element. The position property has several values, each determining how the element should be placed in the document flow and how it interacts with other elements. The main values of the position property are:static,relative,absolute,fixed,sticky,inherit.
+
+2.How many types of positioning are there in CSS?
+
+Sol:In CSS, there are five main types of positioning that can be applied using the position property:static,relative,absolute,fixed,sticky,inherit.These positioning types provide flexibility in designing layouts and allow developers to control the positioning of elements on a webpage.
+
+3.What is Z-index and why to use it?
+
+Sol:z-index in CSS is a property that controls the stacking order of positioned elements along the z-axis (depth) of the page. It determines which elements appear in front of or behind other elements on the page.
+
+We use z-index when we have overlapping elements, and we want to control which element appears in front.
+It's commonly used in web design to layer elements like dropdown menus, pop-up modals, and tooltips.
